@@ -10,12 +10,12 @@ print(f"El doble del número {number1} es {number1*2}")
 
 # -------------------------------------------------------------
 
-print(f"El número es {number1} {'mayor' if number1>5 else 'menor'} que 5")
-print(f"El número es {number2} {'mayor' if number2>5 else 'menor'} que 5")
+print(f"El número {number1} es {'mayor' if number1>5 else 'menor'} que 5")
+print(f"El número {number2} es {'mayor' if number2>5 else 'menor'} que 5")
 
 # Resultado:
-# El número es 10 mayor que 5
-# El número es 4 menor que 5
+# El número 10 es mayor que 5
+# El número 4 es menor que 5
 
 # -------------------------------------------------------------
 
