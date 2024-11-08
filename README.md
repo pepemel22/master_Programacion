@@ -28,6 +28,14 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 [Cheat Sheet en español](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 [Cheat Sheet Visual](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
+## Git en GitHub
+
+GitHub utiliza Git como su sistema de control de versiones subyacente, pero también ofrece algunas funcionalidades adicionales y una interfaz de usuario amigable para facilitar el trabajo con Git.
+
+### Documentación oficial de GitHub
+[Guía de inicio básico](https://docs.github.com/es/get-started/start-your-journey)
+
+
 ## Lenguajes de Programación
 
 ### Python
