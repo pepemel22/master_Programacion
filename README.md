@@ -1,7 +1,8 @@
 # Recursos del Máster de Programación
+***
 
 ## Intérprete de comandos
-
+---
 ## Bash
 
 Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente en sistemas operativos Unix y Linux. Es una versión mejorada del shell original de Unix (el Bourne Shell) y proporciona una interfaz de línea de comandos para interactuar con el sistema operativo, ejecutar comandos, y escribir scripts para automatizar tareas.
@@ -11,7 +12,9 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 
 [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
+
 ## Lenguajes de Marcado
+---
 
 ## Markdown
 
@@ -33,6 +36,9 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 
 [Sintaxis avanzada](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## Control de versiones
+---
+
 ## Git
 
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código fuente durante el desarrollo de software. Fue creado por Linus Torvalds en 2005 y es ampliamente utilizado para gestionar proyectos de software de manera eficiente.
@@ -53,8 +59,10 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 
 
 ## Lenguajes de Programación
+---
 
-### C
+## C
+---
 
 C es un lenguaje de programación de propósito general que fue desarrollado en los años 1970 por Dennis Ritchie en los Laboratorios Bell. Es ampliamente utilizado en el desarrollo de sistemas operativos, aplicaciones de sistemas, y software embebido debido a su eficiencia y control de bajo nivel sobre el hardware.
 
@@ -71,7 +79,8 @@ C es un lenguaje de programación de propósito general que fue desarrollado en 
 ### Documentación de C
 [The GNU C Library Reference Manual](https://sourceware.org/glibc/manual/2.40/pdf/libc.pdf)
 
-### Python
+## Python
+---
 
 CPython es la implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la versión de Python más comúnmente utilizada y la que se descarga desde [python.org](https://www.python.org/downloads/). Cuando la mayoría de la gente habla de "Python", generalmente se están refiriendo a CPython.
 
