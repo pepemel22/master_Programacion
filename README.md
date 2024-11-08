@@ -54,13 +54,52 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 
 ## Lenguajes de Programación
 
-### C#
+### C
+
+C es un lenguaje de programación de propósito general que fue desarrollado en los años 1970 por Dennis Ritchie en los Laboratorios Bell. Es ampliamente utilizado en el desarrollo de sistemas operativos, aplicaciones de sistemas, y software embebido debido a su eficiencia y control de bajo nivel sobre el hardware.
+
+### Características principales
+
+- Es un lenguaje compilado, lo que permite un alto rendimiento y eficiencia en tiempo de ejecución.
+
+- Puede ser compilado y ejecutado en muchas plataformas diferentes.
+
+- Permite una gran manipulación de memoria y acceso directo al hardware.
+
+- Proporciona una rica biblioteca estándar para realizar tareas comunes.
+
+### Documentación de C
+[The GNU C Library Reference Manual](https://sourceware.org/glibc/manual/2.40/pdf/libc.pdf)
 
 ### Python
 
 CPython es la implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la versión de Python más comúnmente utilizada y la que se descarga desde [python.org](https://www.python.org/downloads/). Cuando la mayoría de la gente habla de "Python", generalmente se están refiriendo a CPython.
 
 Es mantenida por la [Python Software Foundation (PSF)](https://www.python.org/psf-landing/), la organización sin fines de lucro dedicada a promover y apoyar el desarrollo de Python y su comunidad.
+
+### Características principales
+
+- Python está diseñado para ser fácil de leer y escribir, lo que lo convierte en un excelente lenguaje para principiantes.
+
+- Permite escribir menos líneas de código en comparación con otros lenguajes como Java o C++.
+
+- Se puede ejecutar en un modo interactivo, REPL (Read-Eval-Print Loop), lo que facilita la experimentación y el desarrollo rápido.
+
+- El mismo código Python puede ejecutarse en diferentes plataformas sin necesidad de modificaciones significativas.
+
+- Las variables no requieren una declaración de tipo explícita, lo que permite una programación más rápida y flexible.
+
+- Los tipos de datos se asignan en tiempo de ejecución.
+
+- Permite la programación estructurada, orientada a objetos y funcional.
+
+- Puede integrarse fácilmente con C, C++, y otros lenguajes, permitiendo extender sus capacidades.
+
+- Incluye una amplia gama de módulos y paquetes para tareas comunes como manejo de archivos, conexiones de red, manipulación de datos, y más.
+
+- Existe una gran cantidad de bibliotecas de terceros disponibles para casi cualquier necesidad.
+
+
 
 ### Documentación oficial de Python
 [Python - Documentación (V. 3.13.0 español)](https://docs.python.org/es/3.13/)
