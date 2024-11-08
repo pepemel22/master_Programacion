@@ -1,8 +1,9 @@
 # Recursos del Máster de Programación
 ***
+<details> 
+<summary> <span style="font-size: 1.6em; font-weight: bold;">Intérprete de comandos</summary>
 
-## Intérprete de comandos
----
+
 ## Bash
 
 Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente en sistemas operativos Unix y Linux. Es una versión mejorada del shell original de Unix (el Bourne Shell) y proporciona una interfaz de línea de comandos para interactuar con el sistema operativo, ejecutar comandos, y escribir scripts para automatizar tareas.
@@ -12,9 +13,10 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 
 [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
+</details>
 
-## Lenguajes de Marcado
----
+<details> 
+<summary> <span style="font-size: 1.6em; font-weight: bold;">Lenguajes de Marcado </summary>
 
 ## Markdown
 
@@ -36,8 +38,10 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 
 [Sintaxis avanzada](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Control de versiones
----
+</details>
+
+<details> 
+<summary> <span style="font-size: 1.6em; font-weight: bold;">Control de versiones</summary>
 
 ## Git
 
@@ -57,12 +61,13 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 ### Documentación oficial de GitHub
 [Guía de inicio básico](https://docs.github.com/es/get-started/start-your-journey)
 
+</details>
 
-## Lenguajes de Programación
----
+<details> 
+<summary> <span style="font-size: 1.6em; font-weight: bold;">Lenguajes de Programación </summary>
+
 
 ## C
----
 
 C es un lenguaje de programación de propósito general que fue desarrollado en los años 1970 por Dennis Ritchie en los Laboratorios Bell. Es ampliamente utilizado en el desarrollo de sistemas operativos, aplicaciones de sistemas, y software embebido debido a su eficiencia y control de bajo nivel sobre el hardware.
 
@@ -80,7 +85,6 @@ C es un lenguaje de programación de propósito general que fue desarrollado en 
 [The GNU C Library Reference Manual](https://sourceware.org/glibc/manual/2.40/pdf/libc.pdf)
 
 ## Python
----
 
 CPython es la implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la versión de Python más comúnmente utilizada y la que se descarga desde [python.org](https://www.python.org/downloads/). Cuando la mayoría de la gente habla de "Python", generalmente se están refiriendo a CPython.
 
@@ -112,3 +116,5 @@ Es mantenida por la [Python Software Foundation (PSF)](https://www.python.org/ps
 
 ### Documentación oficial de Python
 [Python - Documentación (V. 3.13.0 español)](https://docs.python.org/es/3.13/)
+
+</details>
