@@ -1,7 +1,6 @@
 # Recursos del Máster de Programación
 ***
-<details> 
-<summary>Intérprete de comandos</summary>
+# ✅ Intérprete de comandos
 
 ***
 ***
@@ -15,10 +14,8 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 
 [Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
-</details>
-
-<details> 
-<summary>Lenguajes de Marcado </summary>
+ 
+# ✅ Lenguajes de Marcado
 
 ***
 ***
@@ -46,10 +43,7 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 
 [Sintaxis avanzada](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-</details>
-
-<details> 
-<summary> Control de versiones</summary>
+# ✅ Control de versiones
 
 ***
 ***
@@ -75,10 +69,8 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 ### Documentación oficial de GitHub
 [Guía de inicio básico](https://docs.github.com/es/get-started/start-your-journey)
 
-</details>
 
-<details> 
-<summary>Lenguajes de Programación </summary>
+# ✅ Lenguajes de Programación 
 
 ***
 ***
@@ -137,4 +129,3 @@ Es mantenida por la [Python Software Foundation (PSF)](https://www.python.org/ps
 ### Documentación oficial de Python
 [Python - Documentación (V. 3.13.0 español)](https://docs.python.org/es/3.13/)
 
-</details>
