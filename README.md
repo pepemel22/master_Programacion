@@ -6,7 +6,7 @@
 ***
 ***
 
-## Bash
+##  ✔ Bash
 
 Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente en sistemas operativos Unix y Linux. Es una versión mejorada del shell original de Unix (el Bourne Shell) y proporciona una interfaz de línea de comandos para interactuar con el sistema operativo, ejecutar comandos, y escribir scripts para automatizar tareas.
 
@@ -23,7 +23,7 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 ***
 ***
 
-## Markdown
+## ✔ Markdown
 
 Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y formatear texto utilizando una sintaxis simple y fácil de leer. Fue creado por John Gruber en 2004 y se ha convertido en uno de los lenguajes de marcado más populares para la creación de documentos en línea.
 
@@ -37,7 +37,7 @@ Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y for
 ***
 ***
 
-## Markdown en GitHub
+## ✔ Markdown en GitHub
 
 GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). GFM incluye todas las características básicas de Markdown, pero también agrega algunas funcionalidades adicionales específicas para GitHub, como la creación de tablas, listas de tareas y la integración de emojis 👽.
 
@@ -54,7 +54,7 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 ***
 ***
 
-## Git
+## ✔ Git
 
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código fuente durante el desarrollo de software. Fue creado por Linus Torvalds en 2005 y es ampliamente utilizado para gestionar proyectos de software de manera eficiente.
 
@@ -68,7 +68,7 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 ***
 ***
 
-## Git en GitHub
+## ✔ Git en GitHub
 
 GitHub utiliza Git como su sistema de control de versiones subyacente, pero también ofrece algunas funcionalidades adicionales y una interfaz de usuario amigable para facilitar el trabajo con Git.
 
@@ -83,7 +83,7 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 ***
 ***
 
-## C
+## ✔ C
 
 C es un lenguaje de programación de propósito general que fue desarrollado en los años 1970 por Dennis Ritchie en los Laboratorios Bell. Es ampliamente utilizado en el desarrollo de sistemas operativos, aplicaciones de sistemas, y software embebido debido a su eficiencia y control de bajo nivel sobre el hardware.
 
@@ -104,7 +104,7 @@ C es un lenguaje de programación de propósito general que fue desarrollado en 
 ***
 ***
 
-## Python
+## ✔ Python
 
 CPython es la implementación de referencia del lenguaje de programación Python. Escrito en C, CPython es la versión de Python más comúnmente utilizada y la que se descarga desde [python.org](https://www.python.org/downloads/). Cuando la mayoría de la gente habla de "Python", generalmente se están refiriendo a CPython.
 
