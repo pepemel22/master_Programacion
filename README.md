@@ -1,5 +1,18 @@
 # Recursos del Máster de Programación
 
+## Lenguajes de Marcado
+
+## Markdown
+
+Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y formatear texto utilizando una sintaxis simple y fácil de leer. Fue creado por John Gruber en 2004 y se ha convertido en uno de los lenguajes de marcado más populares para la creación de documentos en línea.
+
+### Documentación oficial de Markdown
+[Sintaxis básica](https://www.markdownguide.org/basic-syntax/)
+[Sintaxis extendida](https://www.markdownguide.org/extended-syntax/)
+[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+## Git
+
 ## Lenguajes de Programación
 
 ### Python
