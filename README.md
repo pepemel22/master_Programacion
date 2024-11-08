@@ -1,7 +1,7 @@
 # Recursos del Máster de Programación
 ***
 <details> 
-<summary> <span style="font-size: 2em; font-weight: bold;">Intérprete de comandos</summary>
+<summary>Intérprete de comandos</summary>
 
 ***
 ***
@@ -18,7 +18,7 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 </details>
 
 <details> 
-<summary> <span style="font-size: 2em; font-weight: bold;">Lenguajes de Marcado </summary>
+<summary>Lenguajes de Marcado </summary>
 
 ***
 ***
@@ -49,7 +49,7 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 </details>
 
 <details> 
-<summary> <span style="font-size: 2em; font-weight: bold;">Control de versiones</summary>
+<summary> Control de versiones</summary>
 
 ***
 ***
@@ -78,7 +78,7 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 </details>
 
 <details> 
-<summary> <span style="font-size: 2em; font-weight: bold;">Lenguajes de Programación </summary>
+<summary>Lenguajes de Programación </summary>
 
 ***
 ***
