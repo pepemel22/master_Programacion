@@ -3,6 +3,8 @@
 <details> 
 <summary> <span style="font-size: 1.6em; font-weight: bold;">Intérprete de comandos</summary>
 
+***
+***
 
 ## Bash
 
@@ -18,6 +20,9 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 <details> 
 <summary> <span style="font-size: 1.6em; font-weight: bold;">Lenguajes de Marcado </summary>
 
+***
+***
+
 ## Markdown
 
 Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y formatear texto utilizando una sintaxis simple y fácil de leer. Fue creado por John Gruber en 2004 y se ha convertido en uno de los lenguajes de marcado más populares para la creación de documentos en línea.
@@ -28,6 +33,9 @@ Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y for
 [Sintaxis extendida](https://www.markdownguide.org/extended-syntax/)
 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+***
+***
 
 ## Markdown en GitHub
 
@@ -43,6 +51,9 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 <details> 
 <summary> <span style="font-size: 1.6em; font-weight: bold;">Control de versiones</summary>
 
+***
+***
+
 ## Git
 
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código fuente durante el desarrollo de software. Fue creado por Linus Torvalds en 2005 y es ampliamente utilizado para gestionar proyectos de software de manera eficiente.
@@ -53,6 +64,9 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 [Cheat Sheet en español](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 
 [Cheat Sheet Visual](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+
+***
+***
 
 ## Git en GitHub
 
@@ -66,6 +80,8 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 <details> 
 <summary> <span style="font-size: 1.6em; font-weight: bold;">Lenguajes de Programación </summary>
 
+***
+***
 
 ## C
 
@@ -83,6 +99,10 @@ C es un lenguaje de programación de propósito general que fue desarrollado en 
 
 ### Documentación de C
 [The GNU C Library Reference Manual](https://sourceware.org/glibc/manual/2.40/pdf/libc.pdf)
+
+
+***
+***
 
 ## Python
 
