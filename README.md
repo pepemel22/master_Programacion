@@ -3,7 +3,6 @@
 # ✅ Intérprete de comandos
 
 ***
-***
 
 ##  ✔ Bash
 
@@ -18,7 +17,6 @@ Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente e
 # ✅ Lenguajes de Marcado
 
 ***
-***
 
 ## ✔ Markdown
 
@@ -31,7 +29,6 @@ Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y for
 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-***
 ***
 
 ## ✔ Markdown en GitHub
@@ -46,7 +43,6 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 # ✅ Control de versiones
 
 ***
-***
 
 ## ✔ Git
 
@@ -60,7 +56,6 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 [Cheat Sheet Visual](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
 ***
-***
 
 ## ✔ Git en GitHub
 
@@ -72,7 +67,6 @@ GitHub utiliza Git como su sistema de control de versiones subyacente, pero tamb
 
 # ✅ Lenguajes de Programación 
 
-***
 ***
 
 ## ✔ C
@@ -93,7 +87,6 @@ C es un lenguaje de programación de propósito general que fue desarrollado en 
 [The GNU C Library Reference Manual](https://sourceware.org/glibc/manual/2.40/pdf/libc.pdf)
 
 
-***
 ***
 
 ## ✔ Python
