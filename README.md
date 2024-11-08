@@ -1,5 +1,16 @@
 # Recursos del Máster de Programación
 
+## Intérprete de comandos
+
+## Bash
+
+Bash (Bourne Again Shell) es un intérprete de comandos que se usa comúnmente en sistemas operativos Unix y Linux. Es una versión mejorada del shell original de Unix (el Bourne Shell) y proporciona una interfaz de línea de comandos para interactuar con el sistema operativo, ejecutar comandos, y escribir scripts para automatizar tareas.
+
+### Documetación oficial de Bash
+[Bash reference manual](https://www.gnu.org/software/bash/manual/bash.html)
+
+[Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+
 ## Lenguajes de Marcado
 
 ## Markdown
@@ -8,7 +19,9 @@ Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y for
 
 ### Documentación oficial de Markdown
 [Sintaxis básica](https://www.markdownguide.org/basic-syntax/)
+
 [Sintaxis extendida](https://www.markdownguide.org/extended-syntax/)
+
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## Markdown en GitHub
@@ -17,6 +30,7 @@ GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). 
 
 ### Documentación Oficial de GFM
 [Sintaxis básica](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [Sintaxis avanzada](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Git
@@ -25,7 +39,9 @@ Git es un sistema de control de versiones distribuido que permite a los desarrol
 
 ### Documentación Oficial de Git
 [Referencia](https://git-scm.com/docs)
+
 [Cheat Sheet en español](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
+
 [Cheat Sheet Visual](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
 ## Git en GitHub
