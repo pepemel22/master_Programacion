@@ -11,7 +11,22 @@ Markdown es un lenguaje de marcado ligero que permite a los usuarios crear y for
 [Sintaxis extendida](https://www.markdownguide.org/extended-syntax/)
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+## Markdown en GitHub
+
+GitHub utiliza una variante de Markdown llamada GitHub Flavored Markdown (GFM). GFM incluye todas las características básicas de Markdown, pero también agrega algunas funcionalidades adicionales específicas para GitHub, como la creación de tablas, listas de tareas y la integración de emojis 👽.
+
+### Documentación Oficial de GFM
+[Sintaxis básica](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Sintaxis avanzada](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Git
+
+Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código fuente durante el desarrollo de software. Fue creado por Linus Torvalds en 2005 y es ampliamente utilizado para gestionar proyectos de software de manera eficiente.
+
+### Documentación Oficial de Git
+[Referencia](https://git-scm.com/docs)
+[Cheat Sheet en español](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
+[Cheat Sheet Visual](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
 ## Lenguajes de Programación
 
